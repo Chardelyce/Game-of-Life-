@@ -1,0 +1,12 @@
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\bin\Debug\EdwardsChardelyceLab.exe.config
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\bin\Debug\EdwardsChardelyceLab.exe
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\bin\Debug\EdwardsChardelyceLab.pdb
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.Form1.resources
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.Properties.Resources.resources
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.csproj.GenerateResource.cache
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.csproj.CoreCompileInputs.cache
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.exe
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.pdb
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.csprojAssemblyReference.cache
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.Seedpopup.resources
+C:\Users\chardelyce\Desktop\EdwardsChardelyceLab\EdwardsChardelyceLab\obj\Debug\EdwardsChardelyceLab.Applicationsettings.resources
